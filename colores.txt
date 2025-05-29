@@ -4,5 +4,4 @@ Verde
 Amarillo
 Naranja
 Morado
-Rosa
-Cyan
+Turquesa
